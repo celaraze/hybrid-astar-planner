@@ -1,3 +1,5 @@
 astar
 build
 .vscode
+.idea
+cmake-build-debug
